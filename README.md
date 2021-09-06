@@ -1,5 +1,6 @@
 # temperature_abnormal_detection
 lof/gmm/kernel ridge regression/isolation forest
+
 condition_category.py/all_dataset_condition_category_mean.py
 ----
 gmm model
