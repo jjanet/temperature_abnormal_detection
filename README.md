@@ -13,7 +13,7 @@ plt_all.py
 ----
 I draw the picture in plt_all.py,and uses Pathlib to exclude the influence of the operating system
 
-abnormal_detection.py
+detection.py
 ----
 the main detection methon is isolation forest,because there are no abnormal samples in the dataset..
 
